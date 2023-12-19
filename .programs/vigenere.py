@@ -12,7 +12,7 @@ def crypt():
     print("\n",crypted)
 
 def decrypt():
-    alpha="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    alpha="ABCDEFGHIJKLMNOPQRSTUVWXYZ"*2
     crypted=input("Text to decrypt:\n> ")
     text,key="",input("Starting key:\n> ")
     for i in text:
