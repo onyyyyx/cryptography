@@ -1,11 +1,4 @@
 # Cryptography
-## Use
-Crypt something by typing :
-```bash
-sh #coding method#
-```
-## Install
-Install the programs by typing :
-```bash
-git clone https://github.com/onyyyyx/cryptography
-```
+## Crypting methods
+It ||will|| contain numerous encryption methods like Cesar Code, Vigenere Code or BrainFuck. 
+> **This is a recent git repo. Don't worry if there's not a lot of things in, it will come soon. **
